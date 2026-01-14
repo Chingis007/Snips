@@ -1,0 +1,19 @@
+# Expo
+.expo
+
+# Git
+.git
+# node.js
+node_modules
+package.json
+
+# Builds
+ios
+android
+
+# IDEs and editors
+.idea
+.vscode
+
+# env
+expo-env.d.ts
